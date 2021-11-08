@@ -1,0 +1,22 @@
+{
+  "name": "clase02",
+  "version": "1.0.0",
+  "description": "Proyecto hola mundo en node, pero con una vaquita.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanPocampo/proyectoI-git-PilarTecnoII.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanPocampo/proyectoI-git-PilarTecnoII/issues"
+  },
+  "homepage": "https://github.com/juanPocampo/proyectoI-git-PilarTecnoII#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
